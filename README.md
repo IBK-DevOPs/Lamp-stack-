@@ -324,6 +324,8 @@ CustomLog ${APACHE_LOG_DIR}/access.log combined
 
 ### At this stage we can leave our file as tenmporary landing page for our application until we set up an index php file to replace it.
 
+### Side self learning
+### `https://github.com/IBK-DevOPs/Lamp-stack-.git`
 
 
 
